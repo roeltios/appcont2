@@ -1,0 +1,5 @@
+# node_modules y venv fuera del repo
+node_modules/
+venv/
+.env
+__pycache__/
